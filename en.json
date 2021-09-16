@@ -1,7 +1,7 @@
-[
+{
     "/logs": {
         "name": "Audit logs",
         "description": "Show audit logs",
         "tags": ["audit", "logs", "log", "operation"]
     }
-]
+}
